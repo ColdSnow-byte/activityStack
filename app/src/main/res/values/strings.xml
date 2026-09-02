@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActivityStack</string>
+    <string name="tracker_channel_name">前台 Activity 监听</string>
+    <string name="tracker_channel_desc">持续读取当前前台 Activity 并通过悬浮窗展示</string>
+    <string name="tracker_notify_title">正在监听前台 Activity</string>
+    <string name="accessibility_desc">用于实时获取当前前台显示的 Activity 名称，并通过悬浮窗展示。开启后，当您在不同应用 / 界面之间切换时，本服务会读取对应界面的前台 Activity 类名。本应用不会收集或上传任何数据。</string>
+</resources>
